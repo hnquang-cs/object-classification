@@ -1,0 +1,4180 @@
+[
+  {
+    "filename": "98003P_1_rot149.png",
+    "true_class": "98003P",
+    "predicted_class": "98003P",
+    "accepted": true,
+    "best_score": 0.015599548553812154,
+    "margin": 0.9734167491277795,
+    "spec": {
+      "sku": "98003P",
+      "source_file": "target-objects/98003P.XLS",
+      "item_name": "内架",
+      "part_no": "98003P",
+      "material": "PINS:黄铜\n绝缘:PBT+30%GF",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "D",
+          "raw_spec": "ψ4.0+0/-0.05mm",
+          "nominal": 4.0,
+          "upper_tol": 0.0,
+          "lower_tol": -0.05,
+          "min": 3.95,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D1",
+          "raw_spec": "ψ3.95+0.05/-0.10mm",
+          "nominal": 3.95,
+          "upper_tol": 0.05,
+          "lower_tol": -0.1,
+          "min": 3.85,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D2",
+          "raw_spec": "ψ3.5mm MAX.",
+          "nominal": 3.5,
+          "upper_tol": null,
+          "lower_tol": null,
+          "min": null,
+          "max": 3.5,
+          "tolerance_type": "max_only",
+          "diameter": true
+        },
+        {
+          "label": "L",
+          "raw_spec": "32.0+0.0/-1.10mm",
+          "nominal": 32.0,
+          "upper_tol": 0.0,
+          "lower_tol": -1.1,
+          "min": 30.9,
+          "max": 32.0,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "26.0±0.30mm",
+          "nominal": 26.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 25.7,
+          "max": 26.3,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "7.0±0.2mm",
+          "nominal": 7.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 6.8,
+          "max": 7.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "外觀",
+          "requirement": "無变型、缺胶等缺陷"
+        },
+        {
+          "item": "PIN表面處理",
+          "requirement": "鍍鎳"
+        },
+        {
+          "item": "絕緣顔色",
+          "requirement": "98003P:黑色"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98003P_1_rot23.png",
+    "true_class": "98003P",
+    "predicted_class": "98003P",
+    "accepted": true,
+    "best_score": 0.05864260743867,
+    "margin": 0.9005952337779976,
+    "spec": {
+      "sku": "98003P",
+      "source_file": "target-objects/98003P.XLS",
+      "item_name": "内架",
+      "part_no": "98003P",
+      "material": "PINS:黄铜\n绝缘:PBT+30%GF",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "D",
+          "raw_spec": "ψ4.0+0/-0.05mm",
+          "nominal": 4.0,
+          "upper_tol": 0.0,
+          "lower_tol": -0.05,
+          "min": 3.95,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D1",
+          "raw_spec": "ψ3.95+0.05/-0.10mm",
+          "nominal": 3.95,
+          "upper_tol": 0.05,
+          "lower_tol": -0.1,
+          "min": 3.85,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D2",
+          "raw_spec": "ψ3.5mm MAX.",
+          "nominal": 3.5,
+          "upper_tol": null,
+          "lower_tol": null,
+          "min": null,
+          "max": 3.5,
+          "tolerance_type": "max_only",
+          "diameter": true
+        },
+        {
+          "label": "L",
+          "raw_spec": "32.0+0.0/-1.10mm",
+          "nominal": 32.0,
+          "upper_tol": 0.0,
+          "lower_tol": -1.1,
+          "min": 30.9,
+          "max": 32.0,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "26.0±0.30mm",
+          "nominal": 26.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 25.7,
+          "max": 26.3,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "7.0±0.2mm",
+          "nominal": 7.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 6.8,
+          "max": 7.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "外觀",
+          "requirement": "無变型、缺胶等缺陷"
+        },
+        {
+          "item": "PIN表面處理",
+          "requirement": "鍍鎳"
+        },
+        {
+          "item": "絕緣顔色",
+          "requirement": "98003P:黑色"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98003P_1_rot233.png",
+    "true_class": "98003P",
+    "predicted_class": "98003P",
+    "accepted": true,
+    "best_score": 0.043823549393548905,
+    "margin": 0.9218650126447065,
+    "spec": {
+      "sku": "98003P",
+      "source_file": "target-objects/98003P.XLS",
+      "item_name": "内架",
+      "part_no": "98003P",
+      "material": "PINS:黄铜\n绝缘:PBT+30%GF",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "D",
+          "raw_spec": "ψ4.0+0/-0.05mm",
+          "nominal": 4.0,
+          "upper_tol": 0.0,
+          "lower_tol": -0.05,
+          "min": 3.95,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D1",
+          "raw_spec": "ψ3.95+0.05/-0.10mm",
+          "nominal": 3.95,
+          "upper_tol": 0.05,
+          "lower_tol": -0.1,
+          "min": 3.85,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D2",
+          "raw_spec": "ψ3.5mm MAX.",
+          "nominal": 3.5,
+          "upper_tol": null,
+          "lower_tol": null,
+          "min": null,
+          "max": 3.5,
+          "tolerance_type": "max_only",
+          "diameter": true
+        },
+        {
+          "label": "L",
+          "raw_spec": "32.0+0.0/-1.10mm",
+          "nominal": 32.0,
+          "upper_tol": 0.0,
+          "lower_tol": -1.1,
+          "min": 30.9,
+          "max": 32.0,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "26.0±0.30mm",
+          "nominal": 26.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 25.7,
+          "max": 26.3,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "7.0±0.2mm",
+          "nominal": 7.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 6.8,
+          "max": 7.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "外觀",
+          "requirement": "無变型、缺胶等缺陷"
+        },
+        {
+          "item": "PIN表面處理",
+          "requirement": "鍍鎳"
+        },
+        {
+          "item": "絕緣顔色",
+          "requirement": "98003P:黑色"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98003P_1_rot71.png",
+    "true_class": "98003P",
+    "predicted_class": "98003P",
+    "accepted": true,
+    "best_score": 0.05025483696985461,
+    "margin": 0.9022512671752891,
+    "spec": {
+      "sku": "98003P",
+      "source_file": "target-objects/98003P.XLS",
+      "item_name": "内架",
+      "part_no": "98003P",
+      "material": "PINS:黄铜\n绝缘:PBT+30%GF",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "D",
+          "raw_spec": "ψ4.0+0/-0.05mm",
+          "nominal": 4.0,
+          "upper_tol": 0.0,
+          "lower_tol": -0.05,
+          "min": 3.95,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D1",
+          "raw_spec": "ψ3.95+0.05/-0.10mm",
+          "nominal": 3.95,
+          "upper_tol": 0.05,
+          "lower_tol": -0.1,
+          "min": 3.85,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D2",
+          "raw_spec": "ψ3.5mm MAX.",
+          "nominal": 3.5,
+          "upper_tol": null,
+          "lower_tol": null,
+          "min": null,
+          "max": 3.5,
+          "tolerance_type": "max_only",
+          "diameter": true
+        },
+        {
+          "label": "L",
+          "raw_spec": "32.0+0.0/-1.10mm",
+          "nominal": 32.0,
+          "upper_tol": 0.0,
+          "lower_tol": -1.1,
+          "min": 30.9,
+          "max": 32.0,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "26.0±0.30mm",
+          "nominal": 26.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 25.7,
+          "max": 26.3,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "7.0±0.2mm",
+          "nominal": 7.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 6.8,
+          "max": 7.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "外觀",
+          "requirement": "無变型、缺胶等缺陷"
+        },
+        {
+          "item": "PIN表面處理",
+          "requirement": "鍍鎳"
+        },
+        {
+          "item": "絕緣顔色",
+          "requirement": "98003P:黑色"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98475_1_rot149.png",
+    "true_class": "98475",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.3234426904304831,
+    "margin": 0.04129836801564157,
+    "spec": null
+  },
+  {
+    "filename": "98475_1_rot23.png",
+    "true_class": "98475",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.31655072665311373,
+    "margin": 1.2058513397908468,
+    "spec": null
+  },
+  {
+    "filename": "98475_1_rot233.png",
+    "true_class": "98475",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.22574687391689063,
+    "margin": 0.13180835638691735,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98475_1_rot71.png",
+    "true_class": "98475",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.18223366746123779,
+    "margin": 0.2844816982402959,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98475_2_rot149.png",
+    "true_class": "98475",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.5610796694110352,
+    "margin": 0.6494810503660737,
+    "spec": null
+  },
+  {
+    "filename": "98475_2_rot23.png",
+    "true_class": "98475",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.17594291866958672,
+    "margin": 0.11661756024254033,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98475_2_rot233.png",
+    "true_class": "98475",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.29022405263233775,
+    "margin": 0.15202665374547059,
+    "spec": null
+  },
+  {
+    "filename": "98475_2_rot71.png",
+    "true_class": "98475",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.18531470249221205,
+    "margin": 0.1751099957181692,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_10_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 4.949394306545195,
+    "margin": 0.10342973726914195,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_10_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.8760195430565569,
+    "margin": 0.08998688347406802,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_10_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.433937110661599,
+    "margin": 1.0805075336417367,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_10_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 1.065583497545131,
+    "margin": 1.359262887358327,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_1_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.2854581056123655,
+    "margin": 0.2742813043997606,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_1_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.23315297330233103,
+    "margin": 0.3587495139215086,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_1_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.3841503388767587,
+    "margin": 0.3626898379961829,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_1_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 1.0167881521949458,
+    "margin": 0.3720954005365995,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_2_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.08689162907840439,
+    "margin": 0.7316395563906845,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_2_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.13159013134395944,
+    "margin": 0.5767547214694179,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_2_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.27625145676177926,
+    "margin": 0.35262859316967715,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_2_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.06727674284509039,
+    "margin": 0.5788525163551399,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_3_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.07169910640633859,
+    "margin": 0.28355060236770846,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_3_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.1588821812190247,
+    "margin": 0.3906751056136942,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_3_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.2265326616254691,
+    "margin": 0.11629347696498632,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_3_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.2250628684587814,
+    "margin": 0.007590886074405362,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_4_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.1259277776827677,
+    "margin": 0.22820543872826288,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_4_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.13328537691304063,
+    "margin": 0.43693215011384645,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_4_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.08755831778683501,
+    "margin": 0.2515047514304317,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_4_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.19972902072139115,
+    "margin": 0.19280174505051234,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_5_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.3379482234504412,
+    "margin": 0.35617494401897254,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_5_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.14363133881763596,
+    "margin": 0.5790865797510889,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_5_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.16282684329892716,
+    "margin": 0.3898801739478498,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_5_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.7749568183504465,
+    "margin": 0.09730004579961649,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_6_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.44625194795892353,
+    "margin": 0.6251934232245984,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_6_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.1617393358803941,
+    "margin": 0.04543141437782802,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_6_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.28064110771001555,
+    "margin": 0.6836169444967148,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_6_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.2185542603918752,
+    "margin": 0.22564909749221285,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_7_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.5152072215510912,
+    "margin": 0.7076470565761119,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_7_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.19311943022656597,
+    "margin": 0.3621487091974491,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_7_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 1.5518940456026191,
+    "margin": 0.2924204263412602,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_7_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.11627684168542399,
+    "margin": 0.6325534925572964,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_8_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.3664075766752696,
+    "margin": 0.5788838957745578,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_8_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.13797559561842504,
+    "margin": 0.0817587063625218,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_8_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.5278599619360764,
+    "margin": 0.4050296992999045,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_8_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.3309872679596083,
+    "margin": 1.305990233587646,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_9_rot149.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.558243346840669,
+    "margin": 0.3625609547848029,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_9_rot23.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.1408289043714727,
+    "margin": 0.5900540036723312,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "98661BBS-1_9_rot233.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.6958426078320614,
+    "margin": 0.5916342830193608,
+    "spec": null
+  },
+  {
+    "filename": "98661BBS-1_9_rot71.png",
+    "true_class": "98661BBS-1",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 8.524457568821393,
+    "margin": 1.4110841897692161,
+    "spec": null
+  },
+  {
+    "filename": "UH-004_1_rot149.png",
+    "true_class": "UH-004",
+    "predicted_class": "UH-004",
+    "accepted": true,
+    "best_score": 0.034120015602354836,
+    "margin": 0.9667156641861232,
+    "spec": {
+      "sku": "UH-004",
+      "source_file": "target-objects/UH-004.XLS",
+      "item_name": "內模",
+      "part_no": "UH-004",
+      "material": "ABS",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "A",
+          "raw_spec": "11.2+0.1/-0.3mm",
+          "nominal": 11.2,
+          "upper_tol": 0.1,
+          "lower_tol": -0.3,
+          "min": 10.9,
+          "max": 11.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "B",
+          "raw_spec": "3.0±0.2mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "C",
+          "raw_spec": "14.2±0.2mm",
+          "nominal": 14.2,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 14.0,
+          "max": 14.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "D",
+          "raw_spec": "2.0+0.3/-0.1mm",
+          "nominal": 2.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.1,
+          "min": 1.9,
+          "max": 2.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "17.1±0.3mm",
+          "nominal": 17.1,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 16.8,
+          "max": 17.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "顔色",
+          "requirement": "黑色"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無缺胶、变形等缺陷"
+        },
+        {
+          "item": "绝缘电阻",
+          "requirement": "≧100MΩ"
+        },
+        {
+          "item": "组装检查",
+          "requirement": "内芯,外套与98475/98661端子组装,配合良好"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "UH-004_1_rot23.png",
+    "true_class": "UH-004",
+    "predicted_class": "UH-8715P",
+    "accepted": true,
+    "best_score": 0.03763457103495557,
+    "margin": 0.12266706970854219,
+    "spec": {
+      "sku": "UH-8715P",
+      "source_file": "target-objects/UH-8715P.XLS",
+      "item_name": "內模",
+      "part_no": "UH-8715P",
+      "material": "PBT+GLASS",
+      "unit": "mm",
+      "drawing": null,
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "A",
+          "raw_spec": "21.90±0.15mm",
+          "nominal": 21.9,
+          "upper_tol": 0.15,
+          "lower_tol": -0.15,
+          "min": 21.75,
+          "max": 22.05,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "B",
+          "raw_spec": "14.5±0.2mm",
+          "nominal": 14.5,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 14.3,
+          "max": 14.7,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "C",
+          "raw_spec": "9.5±0.2mm",
+          "nominal": 9.5,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 9.3,
+          "max": 9.7,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "E",
+          "raw_spec": "4.7±0.2mm",
+          "nominal": 4.7,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 4.5,
+          "max": 4.9,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "G",
+          "raw_spec": "16±0.2mm",
+          "nominal": 16.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 15.8,
+          "max": 16.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "8.60±0.15mm",
+          "nominal": 8.6,
+          "upper_tol": 0.15,
+          "lower_tol": -0.15,
+          "min": 8.45,
+          "max": 8.75,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "I",
+          "raw_spec": "3.05+0.05/-0.10mm",
+          "nominal": 3.05,
+          "upper_tol": 0.05,
+          "lower_tol": -0.1,
+          "min": 2.95,
+          "max": 3.1,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "1.6±0.2mm",
+          "nominal": 1.6,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 1.4,
+          "max": 1.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "K",
+          "raw_spec": "5.8±0.2mm",
+          "nominal": 5.8,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 5.6,
+          "max": 6.0,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "7.9±0.2mm",
+          "nominal": 7.9,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 7.7,
+          "max": 8.1,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "顔色",
+          "requirement": "黑色"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無变型、缺胶等缺陷"
+        },
+        {
+          "item": "绝缘电阻",
+          "requirement": "绝缘电阻≧100MΩ"
+        },
+        {
+          "item": "球压测试",
+          "requirement": "20N的力,125C@1H,压痕不能超過2mm"
+        },
+        {
+          "item": "组装检查",
+          "requirement": "与98715端子组装,配合良好"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "UH-004_1_rot233.png",
+    "true_class": "UH-004",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.26544812429113496,
+    "margin": 0.051016884357438175,
+    "spec": null
+  },
+  {
+    "filename": "UH-004_1_rot71.png",
+    "true_class": "UH-004",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.17335422466206996,
+    "margin": 0.3766302123733407,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "UH-004_2_rot149.png",
+    "true_class": "UH-004",
+    "predicted_class": "98661BBS-1",
+    "accepted": true,
+    "best_score": 0.117645495949625,
+    "margin": 0.26827836229829705,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "端     子",
+      "part_no": "98661BBS-1",
+      "material": "黄铜",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5±0.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15±0.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3±0.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2±0.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0±0.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3±0.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "表面处理",
+          "requirement": "镀镍"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無氧化、变形等缺陷"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "UH-004_2_rot23.png",
+    "true_class": "UH-004",
+    "predicted_class": "UH-004",
+    "accepted": true,
+    "best_score": 0.017132811769965006,
+    "margin": 0.18102652894105054,
+    "spec": {
+      "sku": "UH-004",
+      "source_file": "target-objects/UH-004.XLS",
+      "item_name": "內模",
+      "part_no": "UH-004",
+      "material": "ABS",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "A",
+          "raw_spec": "11.2+0.1/-0.3mm",
+          "nominal": 11.2,
+          "upper_tol": 0.1,
+          "lower_tol": -0.3,
+          "min": 10.9,
+          "max": 11.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "B",
+          "raw_spec": "3.0±0.2mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "C",
+          "raw_spec": "14.2±0.2mm",
+          "nominal": 14.2,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 14.0,
+          "max": 14.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "D",
+          "raw_spec": "2.0+0.3/-0.1mm",
+          "nominal": 2.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.1,
+          "min": 1.9,
+          "max": 2.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "17.1±0.3mm",
+          "nominal": 17.1,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 16.8,
+          "max": 17.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "顔色",
+          "requirement": "黑色"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無缺胶、变形等缺陷"
+        },
+        {
+          "item": "绝缘电阻",
+          "requirement": "≧100MΩ"
+        },
+        {
+          "item": "组装检查",
+          "requirement": "内芯,外套与98475/98661端子组装,配合良好"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "UH-004_2_rot233.png",
+    "true_class": "UH-004",
+    "predicted_class": "UH-004",
+    "accepted": true,
+    "best_score": 7.623352917335291e-05,
+    "margin": 0.20586503462821687,
+    "spec": {
+      "sku": "UH-004",
+      "source_file": "target-objects/UH-004.XLS",
+      "item_name": "內模",
+      "part_no": "UH-004",
+      "material": "ABS",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "A",
+          "raw_spec": "11.2+0.1/-0.3mm",
+          "nominal": 11.2,
+          "upper_tol": 0.1,
+          "lower_tol": -0.3,
+          "min": 10.9,
+          "max": 11.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "B",
+          "raw_spec": "3.0±0.2mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "C",
+          "raw_spec": "14.2±0.2mm",
+          "nominal": 14.2,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 14.0,
+          "max": 14.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "D",
+          "raw_spec": "2.0+0.3/-0.1mm",
+          "nominal": 2.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.1,
+          "min": 1.9,
+          "max": 2.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "17.1±0.3mm",
+          "nominal": 17.1,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 16.8,
+          "max": 17.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "顔色",
+          "requirement": "黑色"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無缺胶、变形等缺陷"
+        },
+        {
+          "item": "绝缘电阻",
+          "requirement": "≧100MΩ"
+        },
+        {
+          "item": "组装检查",
+          "requirement": "内芯,外套与98475/98661端子组装,配合良好"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "UH-004_2_rot71.png",
+    "true_class": "UH-004",
+    "predicted_class": "UH-004",
+    "accepted": true,
+    "best_score": 0.10187063127077003,
+    "margin": 0.06786608557435991,
+    "spec": {
+      "sku": "UH-004",
+      "source_file": "target-objects/UH-004.XLS",
+      "item_name": "內模",
+      "part_no": "UH-004",
+      "material": "ABS",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "A",
+          "raw_spec": "11.2+0.1/-0.3mm",
+          "nominal": 11.2,
+          "upper_tol": 0.1,
+          "lower_tol": -0.3,
+          "min": 10.9,
+          "max": 11.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "B",
+          "raw_spec": "3.0±0.2mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "C",
+          "raw_spec": "14.2±0.2mm",
+          "nominal": 14.2,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 14.0,
+          "max": 14.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "D",
+          "raw_spec": "2.0+0.3/-0.1mm",
+          "nominal": 2.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.1,
+          "min": 1.9,
+          "max": 2.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "17.1±0.3mm",
+          "nominal": 17.1,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 16.8,
+          "max": 17.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "顔色",
+          "requirement": "黑色"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無缺胶、变形等缺陷"
+        },
+        {
+          "item": "绝缘电阻",
+          "requirement": "≧100MΩ"
+        },
+        {
+          "item": "组装检查",
+          "requirement": "内芯,外套与98475/98661端子组装,配合良好"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "UH-8715P_1_rot149.png",
+    "true_class": "UH-8715P",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 2.7365077042582833,
+    "margin": 0.4898782333801024,
+    "spec": null
+  },
+  {
+    "filename": "UH-8715P_1_rot23.png",
+    "true_class": "UH-8715P",
+    "predicted_class": "UH-8715P",
+    "accepted": true,
+    "best_score": 0.16771874617149357,
+    "margin": 0.07252069721476367,
+    "spec": {
+      "sku": "UH-8715P",
+      "source_file": "target-objects/UH-8715P.XLS",
+      "item_name": "內模",
+      "part_no": "UH-8715P",
+      "material": "PBT+GLASS",
+      "unit": "mm",
+      "drawing": null,
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "A",
+          "raw_spec": "21.90±0.15mm",
+          "nominal": 21.9,
+          "upper_tol": 0.15,
+          "lower_tol": -0.15,
+          "min": 21.75,
+          "max": 22.05,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "B",
+          "raw_spec": "14.5±0.2mm",
+          "nominal": 14.5,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 14.3,
+          "max": 14.7,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "C",
+          "raw_spec": "9.5±0.2mm",
+          "nominal": 9.5,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 9.3,
+          "max": 9.7,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "E",
+          "raw_spec": "4.7±0.2mm",
+          "nominal": 4.7,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 4.5,
+          "max": 4.9,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "G",
+          "raw_spec": "16±0.2mm",
+          "nominal": 16.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 15.8,
+          "max": 16.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "8.60±0.15mm",
+          "nominal": 8.6,
+          "upper_tol": 0.15,
+          "lower_tol": -0.15,
+          "min": 8.45,
+          "max": 8.75,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "I",
+          "raw_spec": "3.05+0.05/-0.10mm",
+          "nominal": 3.05,
+          "upper_tol": 0.05,
+          "lower_tol": -0.1,
+          "min": 2.95,
+          "max": 3.1,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "1.6±0.2mm",
+          "nominal": 1.6,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 1.4,
+          "max": 1.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "K",
+          "raw_spec": "5.8±0.2mm",
+          "nominal": 5.8,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 5.6,
+          "max": 6.0,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "7.9±0.2mm",
+          "nominal": 7.9,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 7.7,
+          "max": 8.1,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "顔色",
+          "requirement": "黑色"
+        },
+        {
+          "item": "外觀",
+          "requirement": "無变型、缺胶等缺陷"
+        },
+        {
+          "item": "绝缘电阻",
+          "requirement": "绝缘电阻≧100MΩ"
+        },
+        {
+          "item": "球压测试",
+          "requirement": "20N的力,125C@1H,压痕不能超過2mm"
+        },
+        {
+          "item": "组装检查",
+          "requirement": "与98715端子组装,配合良好"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "UH-8715P_1_rot233.png",
+    "true_class": "UH-8715P",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": null,
+    "margin": 0.0,
+    "spec": null
+  },
+  {
+    "filename": "UH-8715P_1_rot71.png",
+    "true_class": "UH-8715P",
+    "predicted_class": "UNKNOWN",
+    "accepted": false,
+    "best_score": 0.4392173411873069,
+    "margin": 0.051016884357438175,
+    "spec": null
+  }
+]

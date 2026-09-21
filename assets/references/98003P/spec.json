@@ -1,0 +1,92 @@
+{
+  "sku": "98003P",
+  "source_file": "target-objects/98003P.XLS",
+  "item_name": "内架",
+  "part_no": "98003P",
+  "material": "PINS:黄铜\n绝缘:PBT+30%GF",
+  "unit": "mm",
+  "drawing": "drawing.png",
+  "review_status": "draft",
+  "dimensions": [
+    {
+      "label": "D",
+      "raw_spec": "ψ4.0+0/-0.05mm",
+      "nominal": 4.0,
+      "upper_tol": 0.0,
+      "lower_tol": -0.05,
+      "min": 3.95,
+      "max": 4.0,
+      "tolerance_type": "asymmetric",
+      "diameter": true
+    },
+    {
+      "label": "D1",
+      "raw_spec": "ψ3.95+0.05/-0.10mm",
+      "nominal": 3.95,
+      "upper_tol": 0.05,
+      "lower_tol": -0.1,
+      "min": 3.85,
+      "max": 4.0,
+      "tolerance_type": "asymmetric",
+      "diameter": true
+    },
+    {
+      "label": "D2",
+      "raw_spec": "ψ3.5mm MAX.",
+      "nominal": 3.5,
+      "upper_tol": null,
+      "lower_tol": null,
+      "min": null,
+      "max": 3.5,
+      "tolerance_type": "max_only",
+      "diameter": true
+    },
+    {
+      "label": "L",
+      "raw_spec": "32.0+0.0/-1.10mm",
+      "nominal": 32.0,
+      "upper_tol": 0.0,
+      "lower_tol": -1.1,
+      "min": 30.9,
+      "max": 32.0,
+      "tolerance_type": "asymmetric",
+      "diameter": false
+    },
+    {
+      "label": "W",
+      "raw_spec": "26.0±0.30mm",
+      "nominal": 26.0,
+      "upper_tol": 0.3,
+      "lower_tol": -0.3,
+      "min": 25.7,
+      "max": 26.3,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "H",
+      "raw_spec": "7.0±0.2mm",
+      "nominal": 7.0,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 6.8,
+      "max": 7.2,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    }
+  ],
+  "qc_notes": [
+    {
+      "item": "外觀",
+      "requirement": "無变型、缺胶等缺陷"
+    },
+    {
+      "item": "PIN表面處理",
+      "requirement": "鍍鎳"
+    },
+    {
+      "item": "絕緣顔色",
+      "requirement": "98003P:黑色"
+    }
+  ]
+}

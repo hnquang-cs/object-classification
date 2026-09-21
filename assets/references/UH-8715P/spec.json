@@ -1,0 +1,144 @@
+{
+  "sku": "UH-8715P",
+  "source_file": "target-objects/UH-8715P.XLS",
+  "item_name": "內模",
+  "part_no": "UH-8715P",
+  "material": "PBT+GLASS",
+  "unit": "mm",
+  "drawing": null,
+  "review_status": "draft",
+  "dimensions": [
+    {
+      "label": "A",
+      "raw_spec": "21.90±0.15mm",
+      "nominal": 21.9,
+      "upper_tol": 0.15,
+      "lower_tol": -0.15,
+      "min": 21.75,
+      "max": 22.05,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "B",
+      "raw_spec": "14.5±0.2mm",
+      "nominal": 14.5,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 14.3,
+      "max": 14.7,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "C",
+      "raw_spec": "9.5±0.2mm",
+      "nominal": 9.5,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 9.3,
+      "max": 9.7,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "E",
+      "raw_spec": "4.7±0.2mm",
+      "nominal": 4.7,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 4.5,
+      "max": 4.9,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "G",
+      "raw_spec": "16±0.2mm",
+      "nominal": 16.0,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 15.8,
+      "max": 16.2,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "H",
+      "raw_spec": "8.60±0.15mm",
+      "nominal": 8.6,
+      "upper_tol": 0.15,
+      "lower_tol": -0.15,
+      "min": 8.45,
+      "max": 8.75,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "I",
+      "raw_spec": "3.05+0.05/-0.10mm",
+      "nominal": 3.05,
+      "upper_tol": 0.05,
+      "lower_tol": -0.1,
+      "min": 2.95,
+      "max": 3.1,
+      "tolerance_type": "asymmetric",
+      "diameter": false
+    },
+    {
+      "label": "J",
+      "raw_spec": "1.6±0.2mm",
+      "nominal": 1.6,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 1.4,
+      "max": 1.8,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "K",
+      "raw_spec": "5.8±0.2mm",
+      "nominal": 5.8,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 5.6,
+      "max": 6.0,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "L",
+      "raw_spec": "7.9±0.2mm",
+      "nominal": 7.9,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 7.7,
+      "max": 8.1,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    }
+  ],
+  "qc_notes": [
+    {
+      "item": "顔色",
+      "requirement": "黑色"
+    },
+    {
+      "item": "外觀",
+      "requirement": "無变型、缺胶等缺陷"
+    },
+    {
+      "item": "绝缘电阻",
+      "requirement": "绝缘电阻≧100MΩ"
+    },
+    {
+      "item": "球压测试",
+      "requirement": "20N的力,125C@1H,压痕不能超過2mm"
+    },
+    {
+      "item": "组装检查",
+      "requirement": "与98715端子组装,配合良好"
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "98003P": {
+    "label": "98003P",
+    "n_references": 1,
+    "feature_mean": {
+      "area": 152748.5,
+      "perimeter": 4556.598308444023,
+      "aspect_ratio": 0.8227474150664698,
+      "rect_long": 663.8208618164062,
+      "rect_short": 555.4901733398438,
+      "rect_aspect": 0.8368073456140888,
+      "solidity": 0.4574986334808425,
+      "circularity": 0.09244966226884073,
+      "hole_count": 1.0,
+      "hu": [
+        0.44862840526828257,
+        3.1655857230473994,
+        4.1539931917234725,
+        2.5147324329239225,
+        6.005797535043837,
+        -4.097624857629313,
+        5.9935943757041334
+      ]
+    },
+    "feature_std": {
+      "area": 0.0,
+      "perimeter": 0.0,
+      "aspect_ratio": 0.0,
+      "rect_long": 0.0,
+      "rect_short": 0.0,
+      "rect_aspect": 0.0,
+      "solidity": 0.0,
+      "circularity": 0.0,
+      "hole_count": 0.0,
+      "hu": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "expected_area_range": [
+      152748.5,
+      152748.5
+    ],
+    "expected_aspect_range": [
+      0.8368073456140888,
+      0.8368073456140888
+    ],
+    "expected_hole_count": 1,
+    "spec": {
+      "sku": "98003P",
+      "source_file": "target-objects/98003P.XLS",
+      "item_name": "\u5185\u67b6",
+      "part_no": "98003P",
+      "material": "PINS:\u9ec4\u94dc\n\u7edd\u7f18:PBT+30%GF",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "D",
+          "raw_spec": "\u03c84.0+0/-0.05mm",
+          "nominal": 4.0,
+          "upper_tol": 0.0,
+          "lower_tol": -0.05,
+          "min": 3.95,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D1",
+          "raw_spec": "\u03c83.95+0.05/-0.10mm",
+          "nominal": 3.95,
+          "upper_tol": 0.05,
+          "lower_tol": -0.1,
+          "min": 3.85,
+          "max": 4.0,
+          "tolerance_type": "asymmetric",
+          "diameter": true
+        },
+        {
+          "label": "D2",
+          "raw_spec": "\u03c83.5mm MAX.",
+          "nominal": 3.5,
+          "upper_tol": null,
+          "lower_tol": null,
+          "min": null,
+          "max": 3.5,
+          "tolerance_type": "max_only",
+          "diameter": true
+        },
+        {
+          "label": "L",
+          "raw_spec": "32.0+0.0/-1.10mm",
+          "nominal": 32.0,
+          "upper_tol": 0.0,
+          "lower_tol": -1.1,
+          "min": 30.9,
+          "max": 32.0,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "26.0\u00b10.30mm",
+          "nominal": 26.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 25.7,
+          "max": 26.3,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "7.0\u00b10.2mm",
+          "nominal": 7.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 6.8,
+          "max": 7.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "\u5916\u89c0",
+          "requirement": "\u7121\u53d8\u578b\u3001\u7f3a\u80f6\u7b49\u7f3a\u9677"
+        },
+        {
+          "item": "PIN\u8868\u9762\u8655\u7406",
+          "requirement": "\u934d\u93b3"
+        },
+        {
+          "item": "\u7d55\u7de3\u9854\u8272",
+          "requirement": "98003P:\u9ed1\u8272"
+        }
+      ]
+    },
+    "drawing": "/Users/phamngocduyen/Desktop/project/object-classification/assets/references/98003P/drawing.png"
+  },
+  "98475": {
+    "label": "98475",
+    "n_references": 2,
+    "feature_mean": {
+      "area": 214344.75,
+      "perimeter": 4190.133843719959,
+      "aspect_ratio": 0.48703296518040784,
+      "rect_long": 908.4332275390625,
+      "rect_short": 442.7831268310547,
+      "rect_aspect": 0.48859844302841754,
+      "solidity": 0.6694140889395771,
+      "circularity": 0.1560312561774756,
+      "hole_count": 2.5,
+      "hu": [
+        0.42834631170358173,
+        1.1706720056767628,
+        3.0080268882836747,
+        4.159304157466211,
+        -1.4819638486755347,
+        5.6342198556931145,
+        1.4741806265601887
+      ]
+    },
+    "feature_std": {
+      "area": 42737.25,
+      "perimeter": 698.5060973763466,
+      "aspect_ratio": 0.047720398048291784,
+      "rect_long": 21.566650390625,
+      "rect_short": 34.78318786621094,
+      "rect_aspect": 0.04988877365393346,
+      "solidity": 0.009163042914472452,
+      "circularity": 0.020853438619716502,
+      "hole_count": 0.5,
+      "hu": [
+        0.06778104628204853,
+        0.31586822361011,
+        0.7021993614775335,
+        0.7537296182426514,
+        7.750631947273621,
+        1.7938426194948727,
+        8.473122692761404
+      ]
+    },
+    "expected_area_range": [
+      171607.5,
+      257082.0
+    ],
+    "expected_aspect_range": [
+      0.4387096693744841,
+      0.538487216682351
+    ],
+    "expected_hole_count": 2,
+    "spec": {
+      "sku": "98475",
+      "source_file": "target-objects/98475.XLS",
+      "item_name": "\u7aef     \u5b50",
+      "part_no": "98475BS-0 / -1",
+      "material": "\u9ec4\u94dc",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "L",
+          "raw_spec": "32.5\u00b10.25mm",
+          "nominal": 32.5,
+          "upper_tol": 0.25,
+          "lower_tol": -0.25,
+          "min": 32.25,
+          "max": 32.75,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "E",
+          "raw_spec": "24.5\u00b10.25mm",
+          "nominal": 24.5,
+          "upper_tol": 0.25,
+          "lower_tol": -0.25,
+          "min": 24.25,
+          "max": 24.75,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "4.75+0/-0.05mm",
+          "nominal": 4.75,
+          "upper_tol": 0.0,
+          "lower_tol": -0.05,
+          "min": 4.7,
+          "max": 4.75,
+          "tolerance_type": "asymmetric",
+          "diameter": false,
+          "name": "D"
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.0\u00b10.25mm",
+          "nominal": 4.0,
+          "upper_tol": 0.25,
+          "lower_tol": -0.25,
+          "min": 3.75,
+          "max": 4.25,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.9\u00b10.30mm",
+          "nominal": 4.9,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.6,
+          "max": 5.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.9\u00b10.30mm",
+          "nominal": 4.9,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.6,
+          "max": 5.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "T",
+          "raw_spec": "0.7\u00b10.03mm",
+          "nominal": 0.7,
+          "upper_tol": 0.03,
+          "lower_tol": -0.03,
+          "min": 0.67,
+          "max": 0.73,
+          "tolerance_type": "symmetric",
+          "diameter": false,
+          "name": "\u677f\u539a"
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "\u8868\u9762\u8655\u7406",
+          "requirement": "98475BS-0:\u7d20\u9285"
+        }
+      ]
+    },
+    "drawing": "/Users/phamngocduyen/Desktop/project/object-classification/assets/references/98475/drawing.png"
+  },
+  "98661BBS-1": {
+    "label": "98661BBS-1",
+    "n_references": 10,
+    "feature_mean": {
+      "area": 186348.5,
+      "perimeter": 4634.863555443287,
+      "aspect_ratio": 0.53002277732266,
+      "rect_long": 717.8251159667968,
+      "rect_short": 379.2781066894531,
+      "rect_aspect": 0.5284047768144361,
+      "solidity": 0.7632506231151382,
+      "circularity": 0.13074938532279995,
+      "hole_count": 3.7,
+      "hu": [
+        0.6384774293093713,
+        1.8965402036041863,
+        4.014041425476533,
+        4.54139240072859,
+        5.042001398145492,
+        4.499814378642788,
+        1.196385395924943
+      ]
+    },
+    "feature_std": {
+      "area": 38964.42599795357,
+      "perimeter": 1336.957338820179,
+      "aspect_ratio": 0.05924623839658625,
+      "rect_long": 104.46692310156402,
+      "rect_short": 68.89694757857225,
+      "rect_aspect": 0.05882586885871768,
+      "solidity": 0.08569322040296175,
+      "circularity": 0.06754061556987385,
+      "hole_count": 1.268857754044952,
+      "hu": [
+        0.04965155424883336,
+        0.22459104140023176,
+        0.5670655285345438,
+        0.5889450642277504,
+        7.757457346290399,
+        3.4938438169191266,
+        9.278145532724569
+      ]
+    },
+    "expected_area_range": [
+      120628.5,
+      244778.0
+    ],
+    "expected_aspect_range": [
+      0.4161290322580645,
+      0.5919165580182529
+    ],
+    "expected_hole_count": 4,
+    "spec": {
+      "sku": "98661BBS-1",
+      "source_file": "target-objects/98661BBS-1.XLS",
+      "item_name": "\u7aef     \u5b50",
+      "part_no": "98661BBS-1",
+      "material": "\u9ec4\u94dc",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "T",
+          "raw_spec": "1.5+0/-0.04mm",
+          "nominal": 1.5,
+          "upper_tol": 0.0,
+          "lower_tol": -0.04,
+          "min": 1.46,
+          "max": 1.5,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "28.5\u00b10.30mm",
+          "nominal": 28.5,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 28.2,
+          "max": 28.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "d",
+          "raw_spec": "3.15\u00b10.07mm",
+          "nominal": 3.15,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 3.08,
+          "max": 3.22,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "6.3\u00b10.07mm",
+          "nominal": 6.3,
+          "upper_tol": 0.07,
+          "lower_tol": -0.07,
+          "min": 6.23,
+          "max": 6.37,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "4.2\u00b10.30mm",
+          "nominal": 4.2,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 3.9,
+          "max": 4.5,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.3\u00b10.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "V",
+          "raw_spec": "3.0\u00b10.20mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "4.3\u00b10.30mm",
+          "nominal": 4.3,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.0,
+          "max": 4.6,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "\u8868\u9762\u5904\u7406",
+          "requirement": "\u9540\u954d"
+        },
+        {
+          "item": "\u5916\u89c0",
+          "requirement": "\u7121\u6c27\u5316\u3001\u53d8\u5f62\u7b49\u7f3a\u9677"
+        }
+      ]
+    },
+    "drawing": "/Users/phamngocduyen/Desktop/project/object-classification/assets/references/98661BBS-1/drawing.png"
+  },
+  "UH-004": {
+    "label": "UH-004",
+    "n_references": 2,
+    "feature_mean": {
+      "area": 176156.5,
+      "perimeter": 1734.4255287647247,
+      "aspect_ratio": 0.9211876921587141,
+      "rect_long": 495.478515625,
+      "rect_short": 427.95411682128906,
+      "rect_aspect": 0.8650859009790168,
+      "solidity": 0.9776114601408616,
+      "circularity": 0.7269311136017511,
+      "hole_count": 0.0,
+      "hu": [
+        0.7754334179799103,
+        3.1491607615159136,
+        3.327977216787813,
+        5.2476561710954535,
+        4.738078969701576e-05,
+        -0.1429419701304817,
+        9.694126170246122
+      ]
+    },
+    "feature_std": {
+      "area": 41196.0,
+      "perimeter": 217.26702570915222,
+      "aspect_ratio": 0.024390539133803013,
+      "rect_long": 57.07025146484375,
+      "rect_short": 43.48988342285156,
+      "rect_aspect": 0.011868903089155725,
+      "solidity": 0.004537448821059276,
+      "circularity": 0.009877393652797384,
+      "hole_count": 0.0,
+      "hu": [
+        0.003239342853687044,
+        0.036835329920882565,
+        0.13369523853245413,
+        0.02271332743769916,
+        9.719367921483576,
+        6.984334788466789,
+        0.19143244332795462
+      ]
+    },
+    "expected_area_range": [
+      134960.5,
+      217352.5
+    ],
+    "expected_aspect_range": [
+      0.8532169978898612,
+      0.8769548040681726
+    ],
+    "expected_hole_count": 0,
+    "spec": {
+      "sku": "UH-004",
+      "source_file": "target-objects/UH-004.XLS",
+      "item_name": "\u5167\u6a21",
+      "part_no": "UH-004",
+      "material": "ABS",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "A",
+          "raw_spec": "11.2+0.1/-0.3mm",
+          "nominal": 11.2,
+          "upper_tol": 0.1,
+          "lower_tol": -0.3,
+          "min": 10.9,
+          "max": 11.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "B",
+          "raw_spec": "3.0\u00b10.2mm",
+          "nominal": 3.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.8,
+          "max": 3.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "C",
+          "raw_spec": "14.2\u00b10.2mm",
+          "nominal": 14.2,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 14.0,
+          "max": 14.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "D",
+          "raw_spec": "2.0+0.3/-0.1mm",
+          "nominal": 2.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.1,
+          "min": 1.9,
+          "max": 2.3,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "17.1\u00b10.3mm",
+          "nominal": 17.1,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 16.8,
+          "max": 17.4,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "\u9854\u8272",
+          "requirement": "\u9ed1\u8272"
+        },
+        {
+          "item": "\u5916\u89c0",
+          "requirement": "\u7121\u7f3a\u80f6\u3001\u53d8\u5f62\u7b49\u7f3a\u9677"
+        },
+        {
+          "item": "\u7edd\u7f18\u7535\u963b",
+          "requirement": "\u2267100M\u03a9"
+        },
+        {
+          "item": "\u7ec4\u88c5\u68c0\u67e5",
+          "requirement": "\u5185\u82af,\u5916\u5957\u4e0e98475/98661\u7aef\u5b50\u7ec4\u88c5,\u914d\u5408\u826f\u597d"
+        }
+      ]
+    },
+    "drawing": "/Users/phamngocduyen/Desktop/project/object-classification/assets/references/UH-004/drawing.png"
+  },
+  "UH-8715P": {
+    "label": "UH-8715P",
+    "n_references": 1,
+    "feature_mean": {
+      "area": 141361.5,
+      "perimeter": 1676.5756813287735,
+      "aspect_ratio": 0.7170212765957447,
+      "rect_long": 466.3264465332031,
+      "rect_short": 334.52099609375,
+      "rect_aspect": 0.7173536877024015,
+      "solidity": 0.9440274336696874,
+      "circularity": 0.6319674119238666,
+      "hole_count": 0.0,
+      "hu": [
+        0.7501470165368926,
+        2.4736155417359442,
+        4.244076270405339,
+        8.00771325956087,
+        14.276348155346694,
+        9.304936351515277,
+        14.292186635732309
+      ]
+    },
+    "feature_std": {
+      "area": 0.0,
+      "perimeter": 0.0,
+      "aspect_ratio": 0.0,
+      "rect_long": 0.0,
+      "rect_short": 0.0,
+      "rect_aspect": 0.0,
+      "solidity": 0.0,
+      "circularity": 0.0,
+      "hole_count": 0.0,
+      "hu": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "expected_area_range": [
+      141361.5,
+      141361.5
+    ],
+    "expected_aspect_range": [
+      0.7173536877024015,
+      0.7173536877024015
+    ],
+    "expected_hole_count": 0,
+    "spec": {
+      "sku": "UH-8715P",
+      "source_file": "target-objects/UH-8715P.XLS",
+      "item_name": "\u5167\u6a21",
+      "part_no": "UH-8715P",
+      "material": "PBT+GLASS",
+      "unit": "mm",
+      "drawing": null,
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "A",
+          "raw_spec": "21.90\u00b10.15mm",
+          "nominal": 21.9,
+          "upper_tol": 0.15,
+          "lower_tol": -0.15,
+          "min": 21.75,
+          "max": 22.05,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "B",
+          "raw_spec": "14.5\u00b10.2mm",
+          "nominal": 14.5,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 14.3,
+          "max": 14.7,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "C",
+          "raw_spec": "9.5\u00b10.2mm",
+          "nominal": 9.5,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 9.3,
+          "max": 9.7,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "E",
+          "raw_spec": "4.7\u00b10.2mm",
+          "nominal": 4.7,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 4.5,
+          "max": 4.9,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "G",
+          "raw_spec": "16\u00b10.2mm",
+          "nominal": 16.0,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 15.8,
+          "max": 16.2,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "8.60\u00b10.15mm",
+          "nominal": 8.6,
+          "upper_tol": 0.15,
+          "lower_tol": -0.15,
+          "min": 8.45,
+          "max": 8.75,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "I",
+          "raw_spec": "3.05+0.05/-0.10mm",
+          "nominal": 3.05,
+          "upper_tol": 0.05,
+          "lower_tol": -0.1,
+          "min": 2.95,
+          "max": 3.1,
+          "tolerance_type": "asymmetric",
+          "diameter": false
+        },
+        {
+          "label": "J",
+          "raw_spec": "1.6\u00b10.2mm",
+          "nominal": 1.6,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 1.4,
+          "max": 1.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "K",
+          "raw_spec": "5.8\u00b10.2mm",
+          "nominal": 5.8,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 5.6,
+          "max": 6.0,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "L",
+          "raw_spec": "7.9\u00b10.2mm",
+          "nominal": 7.9,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 7.7,
+          "max": 8.1,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "\u9854\u8272",
+          "requirement": "\u9ed1\u8272"
+        },
+        {
+          "item": "\u5916\u89c0",
+          "requirement": "\u7121\u53d8\u578b\u3001\u7f3a\u80f6\u7b49\u7f3a\u9677"
+        },
+        {
+          "item": "\u7edd\u7f18\u7535\u963b",
+          "requirement": "\u7edd\u7f18\u7535\u963b\u2267100M\u03a9"
+        },
+        {
+          "item": "\u7403\u538b\u6d4b\u8bd5",
+          "requirement": "20N\u7684\u529b,125C@1H,\u538b\u75d5\u4e0d\u80fd\u8d85\u904e2mm"
+        },
+        {
+          "item": "\u7ec4\u88c5\u68c0\u67e5",
+          "requirement": "\u4e0e98715\u7aef\u5b50\u7ec4\u88c5,\u914d\u5408\u826f\u597d"
+        }
+      ]
+    },
+    "drawing": null
+  },
+  "98715PS-0": {
+    "label": "98715PS-0",
+    "n_references": 0,
+    "spec": {
+      "sku": "98715PS-0",
+      "source_file": "target-objects/98715PS-0.XLS",
+      "item_name": "\u7aef     \u5b50",
+      "part_no": "98715PS-0",
+      "material": "\u78f7\u9752\u94dc",
+      "unit": "mm",
+      "drawing": "drawing.png",
+      "review_status": "draft",
+      "dimensions": [
+        {
+          "label": "d",
+          "raw_spec": "21.0\u00b10.30mm",
+          "nominal": 21.0,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 20.7,
+          "max": 21.3,
+          "tolerance_type": "symmetric",
+          "diameter": false,
+          "name": "L"
+        },
+        {
+          "label": "E",
+          "raw_spec": "13.1\u00b10.20mm",
+          "nominal": 13.1,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 12.9,
+          "max": 13.3,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "D1",
+          "raw_spec": "3.7-4.15mm",
+          "nominal": 3.925,
+          "upper_tol": null,
+          "lower_tol": null,
+          "min": 3.7,
+          "max": 4.15,
+          "tolerance_type": "range",
+          "diameter": false
+        },
+        {
+          "label": "F",
+          "raw_spec": "2.6\u00b10.20mm",
+          "nominal": 2.6,
+          "upper_tol": 0.2,
+          "lower_tol": -0.2,
+          "min": 2.4,
+          "max": 2.8,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W",
+          "raw_spec": "4.6\u00b10.30mm",
+          "nominal": 4.6,
+          "upper_tol": 0.3,
+          "lower_tol": -0.3,
+          "min": 4.3,
+          "max": 4.9,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "W1",
+          "raw_spec": "2.7\u00b10.25mm",
+          "nominal": 2.7,
+          "upper_tol": 0.25,
+          "lower_tol": -0.25,
+          "min": 2.45,
+          "max": 2.95,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H",
+          "raw_spec": "3.8\u00b10.25mm",
+          "nominal": 3.8,
+          "upper_tol": 0.25,
+          "lower_tol": -0.25,
+          "min": 3.55,
+          "max": 4.05,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "H1",
+          "raw_spec": "2.8\u00b10.25mm",
+          "nominal": 2.8,
+          "upper_tol": 0.25,
+          "lower_tol": -0.25,
+          "min": 2.55,
+          "max": 3.05,
+          "tolerance_type": "symmetric",
+          "diameter": false
+        },
+        {
+          "label": "T",
+          "raw_spec": "0.4\u00b10.03mm",
+          "nominal": 0.4,
+          "upper_tol": 0.03,
+          "lower_tol": -0.03,
+          "min": 0.37,
+          "max": 0.43,
+          "tolerance_type": "symmetric",
+          "diameter": false,
+          "name": "\u677f\u539a"
+        }
+      ],
+      "qc_notes": [
+        {
+          "item": "\u8868\u9762\u8655\u7406",
+          "requirement": "\u7d20\u9285"
+        },
+        {
+          "item": "\u5916\u89c0",
+          "requirement": "\u7121\u6c27\u5316\u3001\u53d8\u5f62\u7b49\u7f3a\u9677"
+        }
+      ]
+    },
+    "drawing": "/Users/phamngocduyen/Desktop/project/object-classification/assets/references/98715PS-0/drawing.png"
+  }
+}

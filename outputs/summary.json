@@ -1,0 +1,96 @@
+{
+  "test_images": 64,
+  "correct": 27,
+  "wrong_accepted": 7,
+  "unknown": 30,
+  "overall_accuracy": 0.421875,
+  "accepted_accuracy": 0.7941176470588235,
+  "unknown_rate": 0.46875,
+  "average_latency_ms": 2.9939478281249823,
+  "median_latency_ms": 2.7061245000004064,
+  "p95_latency_ms": 4.817081249998889,
+  "reference_images": 16,
+  "skus": [
+    "98003P",
+    "98475",
+    "98661BBS-1",
+    "UH-004",
+    "UH-8715P"
+  ],
+  "match_method": "I1",
+  "match_method_comparison": {
+    "I1": {
+      "worst_genuine_score": 1.5092221077554062,
+      "best_impostor_score": 0.17872078527250446,
+      "separation_gap": -1.3305013224829016,
+      "separated": false
+    },
+    "I2": {
+      "worst_genuine_score": 3.679156499224687,
+      "best_impostor_score": 0.6208156934926523,
+      "separation_gap": -3.0583408057320343,
+      "separated": false
+    },
+    "I3": {
+      "worst_genuine_score": 0.7390426440239601,
+      "best_impostor_score": 0.17940124566667484,
+      "separation_gap": -0.5596413983572853,
+      "separated": false
+    }
+  },
+  "thresholds_used": {
+    "match_threshold": 0.25,
+    "min_margin": 0.05
+  },
+  "threshold_calibration": {
+    "calibrated": false,
+    "n_genuine": 14,
+    "n_impostor": 14,
+    "worst_genuine_score": 1.5092221077554062,
+    "best_impostor_score": 0.17872078527250446,
+    "reason": "genuine and impostor scores overlap; keeping defaults from config.py"
+  },
+  "rotation_self_check": {
+    "angles": [
+      17,
+      37,
+      63,
+      128,
+      214
+    ],
+    "tested": 80,
+    "correct": 60,
+    "unknown": 18,
+    "wrong": 2,
+    "accuracy": 0.75,
+    "worst_genuine_score": 0.876268251578703,
+    "median_genuine_score": 0.12255238389397119
+  },
+  "holdout_self_check": {
+    "tested": 5,
+    "unknown": 2,
+    "leaked": [
+      {
+        "held_out": "98661BBS-1",
+        "claimed": "98475",
+        "best_score": 0.18531470249221205
+      },
+      {
+        "held_out": "UH-004",
+        "claimed": "UH-8715P",
+        "best_score": 0.20589061915135037
+      },
+      {
+        "held_out": "UH-8715P",
+        "claimed": "UH-004",
+        "best_score": 0.03763457103495557
+      }
+    ],
+    "note": ""
+  },
+  "warnings": [
+    "98715PS-0 : spec.json exists but there are no reference photos yet, so this class can never be predicted -- add photos to assets/references/<class>/images/.",
+    "Only 5 image(s) per SKU. The accuracy above is a smoke test, not a reliable estimate of production accuracy.",
+    "The trustworthy numbers are from the self-checks - worst score for a CORRECT part under rotation: 0.8763; best score for a WRONG part: 0.1787. The two groups are OVERLAPPING, so a threshold between them CANNOT be chosen reliably."
+  ]
+}

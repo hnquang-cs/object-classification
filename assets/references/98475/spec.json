@@ -1,0 +1,97 @@
+{
+  "sku": "98475",
+  "source_file": "target-objects/98475.XLS",
+  "item_name": "端     子",
+  "part_no": "98475BS-0 / -1",
+  "material": "黄铜",
+  "unit": "mm",
+  "drawing": "drawing.png",
+  "review_status": "draft",
+  "dimensions": [
+    {
+      "label": "L",
+      "raw_spec": "32.5±0.25mm",
+      "nominal": 32.5,
+      "upper_tol": 0.25,
+      "lower_tol": -0.25,
+      "min": 32.25,
+      "max": 32.75,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "E",
+      "raw_spec": "24.5±0.25mm",
+      "nominal": 24.5,
+      "upper_tol": 0.25,
+      "lower_tol": -0.25,
+      "min": 24.25,
+      "max": 24.75,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "d",
+      "raw_spec": "4.75+0/-0.05mm",
+      "nominal": 4.75,
+      "upper_tol": 0.0,
+      "lower_tol": -0.05,
+      "min": 4.7,
+      "max": 4.75,
+      "tolerance_type": "asymmetric",
+      "diameter": false,
+      "name": "D"
+    },
+    {
+      "label": "F",
+      "raw_spec": "4.0±0.25mm",
+      "nominal": 4.0,
+      "upper_tol": 0.25,
+      "lower_tol": -0.25,
+      "min": 3.75,
+      "max": 4.25,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "W",
+      "raw_spec": "4.9±0.30mm",
+      "nominal": 4.9,
+      "upper_tol": 0.3,
+      "lower_tol": -0.3,
+      "min": 4.6,
+      "max": 5.2,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "H",
+      "raw_spec": "4.9±0.30mm",
+      "nominal": 4.9,
+      "upper_tol": 0.3,
+      "lower_tol": -0.3,
+      "min": 4.6,
+      "max": 5.2,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "T",
+      "raw_spec": "0.7±0.03mm",
+      "nominal": 0.7,
+      "upper_tol": 0.03,
+      "lower_tol": -0.03,
+      "min": 0.67,
+      "max": 0.73,
+      "tolerance_type": "symmetric",
+      "diameter": false,
+      "name": "板厚"
+    }
+  ],
+  "qc_notes": [
+    {
+      "item": "表面處理",
+      "requirement": "98475BS-0:素銅"
+    }
+  ]
+}

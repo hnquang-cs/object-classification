@@ -1,0 +1,110 @@
+{
+  "sku": "98661BBS-1",
+  "source_file": "target-objects/98661BBS-1.XLS",
+  "item_name": "端     子",
+  "part_no": "98661BBS-1",
+  "material": "黄铜",
+  "unit": "mm",
+  "drawing": "drawing.png",
+  "review_status": "draft",
+  "dimensions": [
+    {
+      "label": "T",
+      "raw_spec": "1.5+0/-0.04mm",
+      "nominal": 1.5,
+      "upper_tol": 0.0,
+      "lower_tol": -0.04,
+      "min": 1.46,
+      "max": 1.5,
+      "tolerance_type": "asymmetric",
+      "diameter": false
+    },
+    {
+      "label": "L",
+      "raw_spec": "28.5±0.30mm",
+      "nominal": 28.5,
+      "upper_tol": 0.3,
+      "lower_tol": -0.3,
+      "min": 28.2,
+      "max": 28.8,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "d",
+      "raw_spec": "3.15±0.07mm",
+      "nominal": 3.15,
+      "upper_tol": 0.07,
+      "lower_tol": -0.07,
+      "min": 3.08,
+      "max": 3.22,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "J",
+      "raw_spec": "6.3±0.07mm",
+      "nominal": 6.3,
+      "upper_tol": 0.07,
+      "lower_tol": -0.07,
+      "min": 6.23,
+      "max": 6.37,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "H",
+      "raw_spec": "4.2±0.30mm",
+      "nominal": 4.2,
+      "upper_tol": 0.3,
+      "lower_tol": -0.3,
+      "min": 3.9,
+      "max": 4.5,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "W",
+      "raw_spec": "4.3±0.30mm",
+      "nominal": 4.3,
+      "upper_tol": 0.3,
+      "lower_tol": -0.3,
+      "min": 4.0,
+      "max": 4.6,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "V",
+      "raw_spec": "3.0±0.20mm",
+      "nominal": 3.0,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 2.8,
+      "max": 3.2,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "F",
+      "raw_spec": "4.3±0.30mm",
+      "nominal": 4.3,
+      "upper_tol": 0.3,
+      "lower_tol": -0.3,
+      "min": 4.0,
+      "max": 4.6,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    }
+  ],
+  "qc_notes": [
+    {
+      "item": "表面处理",
+      "requirement": "镀镍"
+    },
+    {
+      "item": "外觀",
+      "requirement": "無氧化、变形等缺陷"
+    }
+  ]
+}

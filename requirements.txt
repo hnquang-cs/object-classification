@@ -1,0 +1,8 @@
+opencv-python>=4.8
+numpy>=1.24
+matplotlib>=3.7
+
+# tools/build_specs.py only (parses the manufacturer's .XLS inspection reports).
+# xlrd dropped .xls (old binary Excel) support in 2.0 -- pin below that.
+xlrd<2.0
+olefile>=0.46

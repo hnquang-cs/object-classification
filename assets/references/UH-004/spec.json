@@ -1,0 +1,85 @@
+{
+  "sku": "UH-004",
+  "source_file": "target-objects/UH-004.XLS",
+  "item_name": "內模",
+  "part_no": "UH-004",
+  "material": "ABS",
+  "unit": "mm",
+  "drawing": "drawing.png",
+  "review_status": "draft",
+  "dimensions": [
+    {
+      "label": "A",
+      "raw_spec": "11.2+0.1/-0.3mm",
+      "nominal": 11.2,
+      "upper_tol": 0.1,
+      "lower_tol": -0.3,
+      "min": 10.9,
+      "max": 11.3,
+      "tolerance_type": "asymmetric",
+      "diameter": false
+    },
+    {
+      "label": "B",
+      "raw_spec": "3.0±0.2mm",
+      "nominal": 3.0,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 2.8,
+      "max": 3.2,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "C",
+      "raw_spec": "14.2±0.2mm",
+      "nominal": 14.2,
+      "upper_tol": 0.2,
+      "lower_tol": -0.2,
+      "min": 14.0,
+      "max": 14.4,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    },
+    {
+      "label": "D",
+      "raw_spec": "2.0+0.3/-0.1mm",
+      "nominal": 2.0,
+      "upper_tol": 0.3,
+      "lower_tol": -0.1,
+      "min": 1.9,
+      "max": 2.3,
+      "tolerance_type": "asymmetric",
+      "diameter": false
+    },
+    {
+      "label": "F",
+      "raw_spec": "17.1±0.3mm",
+      "nominal": 17.1,
+      "upper_tol": 0.3,
+      "lower_tol": -0.3,
+      "min": 16.8,
+      "max": 17.4,
+      "tolerance_type": "symmetric",
+      "diameter": false
+    }
+  ],
+  "qc_notes": [
+    {
+      "item": "顔色",
+      "requirement": "黑色"
+    },
+    {
+      "item": "外觀",
+      "requirement": "無缺胶、变形等缺陷"
+    },
+    {
+      "item": "绝缘电阻",
+      "requirement": "≧100MΩ"
+    },
+    {
+      "item": "组装检查",
+      "requirement": "内芯,外套与98475/98661端子组装,配合良好"
+    }
+  ]
+}
